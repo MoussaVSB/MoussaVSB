@@ -29,19 +29,16 @@ Actuellement en première année de BTS SIO option SLAM, je suis passionné par 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-### Bases de données
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
 ---
 
 ## 📂 Mes projets
-
+- [Documentation de projets](https://moussaverpaux.azurewebsites.net/TP-GriFlex-26-11/index.html)
 ---
 
 ## 🎯 Objectifs 2025
 
 - [ ] Obtenir mon stage de première année
-- [ ] Maîtriser plusieurs langage de programmation dont: Javascript, CSS, HTML... 
+- [ ] Maîtriser plusieurs langage de programmation dont: Javascript, CSS, HTML.
 - [ ] Contribuer à des projets open source
 - [ ] Développer plusieurs projets personnels
 - [ ] Passer des certifications 
@@ -50,17 +47,15 @@ Actuellement en première année de BTS SIO option SLAM, je suis passionné par 
 
 ## 📫 Me contacter
 
-- 💼 LinkedIn : www.linkedin.com/in/moussa-verpaux
-- 📧 Email : moussaverpaux@gmail.com
-- 🌐 Portfolio : https://www.figma.com/design/aagOww0oW1UECxDw5BB2Ik/Free-Portfolios-for-Creatives--Desktop---Community-?node-id=212-15&p=f&t=JajIzCYzytxr908L-0
+- 💼 [LinkedIn](www.linkedin.com/in/moussa-verpaux)
+- 📧 [Mail](moussaverpaux@gmail.com)
+- 🌐 [Mon Portfolio](https://moussaverpaux.azurewebsites.net)
 
 ---
 
-## 📄 CV & Documentation
+## 📄 Documentation
 
-- 📑 [Mon CV](lien-vers-cv.pdf)
-- 📘 [Veille technologique](lien-vers-veille)
-- 📗 [Documentation de projets](lien)
+- 📘 [Veille technologique](https://moussaverpaux.azurewebsites.net/Veille/veille.html)
 
 ---
 
@@ -69,19 +64,4 @@ Actuellement en première année de BTS SIO option SLAM, je suis passionné par 
 ---
 
 ⭐ N'hésitez pas à explorer mes repositories et à me faire vos retours !
-
-<!--
-**vssnow11/vssnow11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
