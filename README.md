@@ -47,8 +47,8 @@ Actuellement en première année de BTS SIO option SLAM, je suis passionné par 
 
 ## 📫 Me contacter
 
-- 💼 [LinkedIn](www.linkedin.com/in/moussa-verpaux)
-- 📧 [Mail](moussaverpaux@gmail.com)
+- 💼 LinkedIn : www.linkedin.com/in/moussa-verpaux
+- 📧 Mail : moussaverpaux@gmail.com
 - 🌐 [Mon Portfolio](https://moussaverpaux.azurewebsites.net)
 
 ---
